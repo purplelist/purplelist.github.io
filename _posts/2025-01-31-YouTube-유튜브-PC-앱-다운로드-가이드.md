@@ -45,17 +45,14 @@ image: 'https://purplelist.github.io/assets/img/thumbnail/YouTube-유튜브-PC-�
     <tr>
         <td style="text-align: center; height: 17px;"><b>소프트웨어 이름</b></td>
         <td style="text-align: center; height: 17px;"><b>기능</b></td>
-        <td style="text-align: center; height: 17px;"><b>다운로드 링크</b></td>
     </tr>
     <tr>
         <td style="text-align: center; height: 17px;"><b>유튜브 다운로더</b></td>
         <td style="text-align: center; height: 17px;"><b>유튜브 동영상 다운로드</b></td>
-        <td style="text-align: center; height: 17px;"><b><a href="다운로드 링크">다운로드</a></b></td>
     </tr>
     <tr>
         <td style="text-align: center; height: 17px;"><b>광고 차단기</b></td>
         <td style="text-align: center; height: 17px;"><b>유튜브 광고 차단</b></td>
-        <td style="text-align: center; height: 17px;"><b><a href="다운로드 링크">다운로드</a></b></td>
     </tr>
 </table>
 
