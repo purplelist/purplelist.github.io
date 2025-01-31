@@ -1,7 +1,7 @@
 ---
 title: whatsapp pc버전 다운로드 무료 이용
 author: bing
-date: 2025-01-31
+date: 2025-02-01
 categories: [Blogging]
 tags: [writing]
 render_with_liquid: false
